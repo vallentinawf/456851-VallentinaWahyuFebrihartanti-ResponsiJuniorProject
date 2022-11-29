@@ -1,0 +1,7 @@
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.csproj.AssemblyReference.cache
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi_JP.Form1.resources
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.csproj.GenerateResource.cache
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.AssemblyInfoInputs.cache
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.AssemblyInfo.cs
+C:\Users\Vallentina Wahyu\source\repos\Responsi JP\Responsi JP\obj\Debug\net6.0-windows\Responsi JP.csproj.CoreCompileInputs.cache
